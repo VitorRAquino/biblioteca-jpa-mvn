@@ -29,7 +29,7 @@ public class CadastroLivroMain {
     }
 
     private static void cadastrarLivro() {
-        Categoria categoria = new Categoria("CELULARES");
+        Categoria categoria = new Categoria("Ação");
         Autor autor = new Autor();
         Livro livro = new Livro(
                 "Harry Potter e a Pedra Filosofal",
